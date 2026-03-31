@@ -2,7 +2,7 @@
 Caisse Fruits & Légumes avec Caméra
 Installer : pip install opencv-python Pillow
 """
-
+#teste modification
 import tkinter as tk
 from tkinter import messagebox
 from datetime import datetime
