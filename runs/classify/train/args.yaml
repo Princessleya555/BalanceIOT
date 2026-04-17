@@ -1,7 +1,7 @@
 task: classify
 mode: train
 model: yolov8n-cls.pt
-data: dataset
+data: dataset-2
 epochs: 30
 time: null
 patience: 100

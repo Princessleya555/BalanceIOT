@@ -5,9 +5,9 @@ import os
 # CONFIGURATION
 # =============================
 
-classes = ["banane", "chouchou", "oignon", "clementine", "courgette", "carrotte", "pomme", "aubergine", "pomme_de_terre"]
+classes = ["banane", "carotte", "champignon", "citron", "clementine", "fraise", "mais", "poire", "poivron", "radis", "tomate", "tomate_cerise"]
 dataset_type = "train"  # "train" ou "val"
-base_path = f"dataset/{dataset_type}"
+base_path = f"dataset-2/{dataset_type}"
 
 # =============================
 # CREATION DOSSIERS SI NECESSAIRE
@@ -44,10 +44,10 @@ while True:
     current_class = classes[current_class_index]
 
     # Affichage infos
-    text = f"Classe: {current_class}"
+    """text = f"Classe: {current_class}"
     cv2.putText(frame, text, (20, 40),
                 cv2.FONT_HERSHEY_SIMPLEX,
-                1, (0, 255, 0), 2)
+                1, (0, 255, 0), 2)"""
 
     cv2.imshow("Capture Dataset", frame)
 

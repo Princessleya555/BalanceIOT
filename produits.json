@@ -1,0 +1,14 @@
+[
+  {"nom": "fraise", "prix": 2.5, "image": "images/fraise.png"},
+  {"nom": "banane", "prix": 1.8, "image": "images/banane.png"},
+  {"nom": "tomate", "prix": 3.2, "image": "images/tomate.png"},
+  {"nom": "carotte", "prix": 2.0, "image": "images/carotte.png"},
+  {"nom": "clementine", "prix": 3.0, "image": "images/carotte.png"},
+  {"nom": "champignon", "prix": 2.10, "image": "images/champignon.png"},
+  {"nom": "citron", "prix": 2.50, "image": "images/citron.png"},
+  {"nom": "navet", "prix": 3.20, "image": "images/navet.png"},
+  {"nom": "mais", "prix": 2.50, "image": "images/mais.png"},
+  {"nom": "avocat", "prix": 3.80, "image": "images/avocat.png"},
+  {"nom": "poivron", "prix": 3.50, "image": "images/poivron.png"},
+  {"nom": "cerise", "prix": 10.00, "image": "images/cerise.png"}
+]
